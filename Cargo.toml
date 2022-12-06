@@ -1,0 +1,13 @@
+[package]
+name = "cbc-mac-aes"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cbc-mac = "0.1.1"
+aes = "0.8.2"
+hex = "0.4.3"
+hex-literal = "0.3.4"
+des = "0.8.1"
